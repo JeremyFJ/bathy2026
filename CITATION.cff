@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Data workflows for addressing distributional and taxonomic uncertainty in the deep-sea giant isopod genus Bathynomus"
+authors:
+  - family-names: Jenrette
+    given-names: Jeremy
+doi: TBD
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+repository-code: https://github.com/JeremyFJ/bathy2026

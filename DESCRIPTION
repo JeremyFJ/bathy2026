@@ -1,0 +1,40 @@
+Package: bathy2026
+Type: Project
+Title: Reproducible Workflows for Bathynomus Data Synthesis
+Version: 1.0.0
+Authors@R: 
+    person("Jeremy", "Jenrette", 
+           email = "jeremy@beneaththewaves.org",
+           role = c("aut", "cre"))
+Description: 
+    Demonstration workflows supporting the synthesis,
+    visualization, and analysis of global occurrence, molecular barcode,
+    and field-based relative abundance data for the deep-sea isopod genus
+    Bathynomus. The repository provides versioned example scripts and
+    outputs illustrating data acquisition from public repositories
+    (GBIF, NCBI GenBank), standardized data cleaning, and exploratory
+    visualization and modeling approaches used in the associated
+    manuscript.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    tidyr,
+    ggplot2,
+    lubridate,
+    sf,
+    rnaturalearth,
+    rnaturalearthdata,
+    cowplot,
+    patchwork,
+    ggtext,
+    MASS,
+    broom,
+    rentrez,
+    Polychrome,
+    ape,
+    ggtree,
+    phytools
+RoxygenNote: 7.3.1
+

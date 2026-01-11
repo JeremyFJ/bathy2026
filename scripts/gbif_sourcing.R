@@ -112,7 +112,7 @@ bathynomus_gbif <- gbif_raw %>%
   )
 
 #-------------------------
-# 5. Write reproducible output
+# 5. Write output
 #-------------------------
 # dir.create("data", showWarnings = FALSE)
 
