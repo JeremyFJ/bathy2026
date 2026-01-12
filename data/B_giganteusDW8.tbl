@@ -1,0 +1,204 @@
+>Feature DW8_mito
+1	14968	source
+			organism	Bathynomus giganteus
+			isolate	DW8
+			mol_type	mitochondrial DNA
+			genome	mitochondrion
+			country	Bahamas
+
+1	1539	gene
+			gene	cox1
+
+1	1539	CDS
+			gene	cox1
+			locus_tag	cox1
+			product	cytochrome c oxidase subunit I
+			transl_table	5
+
+1553	1614	tRNA
+			gene	trnX
+			locus_tag	trnX
+
+1615	2292	gene
+			gene	cox2
+
+1615	2292	CDS
+			gene	cox2
+			locus_tag	cox2
+			product	cytochrome c oxidase subunit II
+			transl_table	5
+
+2295	2355	tRNA
+			gene	trnK
+			locus_tag	trnK
+
+2355	2415	tRNA
+			gene	trnD
+			locus_tag	trnD
+
+2416	2571	gene
+			gene	atp8
+
+2416	2571	CDS
+			gene	atp8
+			locus_tag	atp8
+			product	ATP synthase F0 subunit 8
+			transl_table	5
+
+2568	3233	gene
+			gene	atp6
+
+2568	3233	CDS
+			gene	atp6
+			locus_tag	atp6
+			product	ATP synthase F0 subunit 6
+			transl_table	5
+
+3234	4022	gene
+			gene	cox3
+
+3234	4022	CDS
+			gene	cox3
+			locus_tag	cox3
+			product	cytochrome c oxidase subunit III
+			transl_table	5
+
+4016	4082	tRNA
+			gene	trnR
+			locus_tag	trnR
+
+4078	4138	tRNA
+			gene	trnG
+			locus_tag	trnG
+
+4139	4492	gene
+			gene	nad3
+
+4139	4492	CDS
+			gene	nad3
+			locus_tag	nad3
+			product	NADH dehydrogenase subunit 3
+			transl_table	5
+
+4551	4492	tRNA
+			gene	trnE
+			locus_tag	trnE
+
+4567	4628	tRNA
+			gene	trnW
+			locus_tag	trnW
+
+4688	4750	tRNA
+			gene	trnN
+			locus_tag	trnN
+
+4751	5490	rRNA
+			gene	rrnS
+			locus_tag	rrnS
+
+5530	6463	gene
+			gene	nad1
+
+5530	6463	CDS
+			gene	nad1
+			locus_tag	nad1
+			product	NADH dehydrogenase subunit 1
+			transl_table	5
+
+6543	6480	tRNA
+			gene	trnA
+			locus_tag	trnA
+
+8060	6906	gene
+			gene	cob
+
+8060	6906	CDS
+			gene	cob
+			locus_tag	cob
+			product	cytochrome b
+			transl_table	5
+
+8181	8122	tRNA
+			gene	trnT
+			locus_tag	trnT
+
+8174	9895	gene
+			gene	nad5
+
+8174	9895	CDS
+			gene	nad5
+			locus_tag	nad5
+			product	NADH dehydrogenase subunit 5
+			transl_table	5
+
+9964	10058	tRNA
+			gene	trnF
+			locus_tag	trnF
+
+11413	10067	gene
+			gene	nad4
+
+11413	10067	CDS
+			gene	nad4
+			locus_tag	nad4
+			product	NADH dehydrogenase subunit 4
+			transl_table	5
+
+11700	11407	gene
+			gene	nad4l
+
+11700	11407	CDS
+			gene	nad4l
+			locus_tag	nad4l
+			product	NADH dehydrogenase subunit 4L
+			transl_table	5
+
+11777	11716	tRNA
+			gene	trnP
+			locus_tag	trnP
+
+11792	12297	gene
+			gene	nad6
+
+11792	12297	CDS
+			gene	nad6
+			locus_tag	nad6
+			product	NADH dehydrogenase subunit 6
+			transl_table	5
+
+12272	12313	tRNA
+			gene	trnS2
+			locus_tag	trnS2
+
+13540	12314	rRNA
+			gene	rrnL
+			locus_tag	rrnL
+
+13578	13517	tRNA
+			gene	trnV
+			locus_tag	trnV
+
+13631	13576	tRNA
+			gene	trnQ
+			locus_tag	trnQ
+
+13731	13793	tRNA
+			gene	trnM
+			locus_tag	trnM
+
+13891	14868	gene
+			gene	nad2
+
+13891	14868	CDS
+			gene	nad2
+			locus_tag	nad2
+			product	NADH dehydrogenase subunit 2
+			transl_table	5
+
+14905	14853	tRNA
+			gene	trnC
+			locus_tag	trnC
+
+14968	14905	tRNA
+			gene	trnY
+			locus_tag	trnY
