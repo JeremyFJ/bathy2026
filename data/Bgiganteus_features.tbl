@@ -1,0 +1,153 @@
+>Feature DW8 isolate Bathynomus giganteus mitochondrion
+1    1539 gene
+               gene COX1
+1    1539 CDS
+               product   cytochrome c oxidase subunit I
+               codon_start    1
+               transl_table   5
+
+1554 1614 tRNA
+               product   tRNA-Leu
+
+1615 2292 gene
+               gene COX2
+1615 2292 CDS
+               product   cytochrome c oxidase subunit II
+               codon_start    1
+               transl_table   5
+
+2296 2355 tRNA
+               product   tRNA-Lys
+2356 2415 tRNA
+               product   tRNA-Asp
+
+2416 2571 gene
+               gene ATP8
+2416 2571 CDS
+               product   ATP synthase F0 subunit 8
+               codon_start    1
+               transl_table   5
+
+2565 3233 gene
+               gene ATP6
+2565 3233 CDS
+               product   ATP synthase F0 subunit 6
+               codon_start    1
+               transl_table   5
+
+3234 4022 gene
+               gene COX3
+3234 4022 CDS
+               product   cytochrome c oxidase subunit III
+               codon_start    1
+               transl_table   5
+
+4021 4078 tRNA
+               product   tRNA-Arg
+4079 4138 tRNA
+               product   tRNA-Gly
+
+4139 4484 gene
+               gene ND3
+4139 4484 CDS
+               product   NADH dehydrogenase subunit 3
+               codon_start    1
+               transl_table   5
+
+4551 4493 tRNA
+               product   tRNA-Glu
+4568 4628 tRNA
+               product   tRNA-Trp
+4688 4751 tRNA
+               product   tRNA-Asn
+
+4752 5493 gene
+               gene rrnS
+4752 5493 rRNA
+               product   small subunit ribosomal RNA
+
+5495 6463 gene
+               gene ND1
+5495 6463 CDS
+               product   NADH dehydrogenase subunit 1
+               codon_start    1
+               transl_table   5
+
+6542 6480 tRNA
+               product   tRNA-Ala
+
+6543 6904 misc_structure
+               note mitochondrial control region
+
+8112 6908 gene
+               gene CYTB
+8112 6908 CDS
+               product   cytochrome b
+               codon_start    1
+               transl_table   5
+
+8179 8121 tRNA
+               product   tRNA-Thr
+
+8183 9895 gene
+               gene ND5
+8183 9895 CDS
+               product   NADH dehydrogenase subunit 5
+               codon_start    1
+               transl_table   5
+
+9997 10056     tRNA
+               product   tRNA-Phe
+
+11411     10068     gene
+               gene ND4
+11411     10068     CDS
+               product   NADH dehydrogenase subunit 4
+               codon_start    1
+               transl_table   5
+               transl_except  (pos:10068..10068,aa:TERM)
+
+11701     11410     gene
+               gene ND4L
+11701     11410     CDS
+               product   NADH dehydrogenase subunit 4L
+               codon_start    1
+               transl_table   5
+
+11775     11715     tRNA
+               product   tRNA-Pro
+
+11780       12269   gene
+                gene    ND6
+11780       12269   CDS
+                product         NADH dehydrogenase subunit 6
+                codon_start     1
+                transl_table    5
+                transl_except   (pos:12269,aa:TERM)
+
+12271     12334     tRNA
+               product   tRNA-Ser
+
+13515     12335     gene
+               gene rrnL
+13515     12335     rRNA
+               product   large subunit ribosomal RNA
+
+13576     13516     tRNA
+               product   tRNA-Val
+13628     13577     tRNA
+               product   tRNA-Gln
+13730     13791     tRNA
+               product   tRNA-Met
+
+13867     14865     gene
+               gene ND2
+13867     14865     CDS
+               product   NADH dehydrogenase subunit 2
+               codon_start    1
+               transl_table   5
+
+14902     14851     tRNA
+               product   tRNA-Cys
+14968     14903     tRNA
+               product   tRNA-Tyr
