@@ -42,7 +42,7 @@
                codon_start    1
                transl_table   5
 
-4021 4078 tRNA
+4080 4020 tRNA
                product   tRNA-Arg
 4079 4138 tRNA
                product   tRNA-Gly
@@ -54,11 +54,11 @@
                codon_start    1
                transl_table   5
 
-4551 4493 tRNA
+4552 4492 tRNA
                product   tRNA-Glu
-4568 4628 tRNA
+4567 4630 tRNA
                product   tRNA-Trp
-4688 4751 tRNA
+4688 4758 tRNA
                product   tRNA-Asn
 
 4752 5493 gene
@@ -73,7 +73,7 @@
                codon_start    1
                transl_table   5
 
-6542 6480 tRNA
+6529 6478 tRNA
                product   tRNA-Ala
 
 6543 6904 misc_structure
@@ -86,7 +86,7 @@
                codon_start    1
                transl_table   5
 
-8179 8121 tRNA
+8181 8123 tRNA
                product   tRNA-Thr
 
 8183 9895 gene
@@ -95,6 +95,9 @@
                product   NADH dehydrogenase subunit 5
                codon_start    1
                transl_table   5
+
+9978    9926    tRNA
+                product tRNA-His
 
 9997 10056     tRNA
                product   tRNA-Phe
@@ -105,7 +108,6 @@
                product   NADH dehydrogenase subunit 4
                codon_start    1
                transl_table   5
-               transl_except  (pos:10068..10068,aa:TERM)
 
 11701     11410     gene
                gene ND4L
@@ -114,7 +116,7 @@
                codon_start    1
                transl_table   5
 
-11775     11715     tRNA
+11777     11717     tRNA
                product   tRNA-Pro
 
 11780       12269   gene
@@ -125,7 +127,7 @@
                 transl_table    5
                 transl_except   (pos:12269,aa:TERM)
 
-12271     12334     tRNA
+12273     12336     tRNA
                product   tRNA-Ser
 
 13515     12335     gene
@@ -133,11 +135,11 @@
 13515     12335     rRNA
                product   large subunit ribosomal RNA
 
-13576     13516     tRNA
+13579     13517     tRNA
                product   tRNA-Val
-13628     13577     tRNA
+13631     13577     tRNA
                product   tRNA-Gln
-13730     13791     tRNA
+13732     13793     tRNA
                product   tRNA-Met
 
 13867     14865     gene
@@ -147,7 +149,7 @@
                codon_start    1
                transl_table   5
 
-14902     14851     tRNA
+14906     14853     tRNA
                product   tRNA-Cys
 14968     14903     tRNA
                product   tRNA-Tyr
